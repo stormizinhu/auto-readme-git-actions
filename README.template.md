@@ -71,7 +71,7 @@ git clone git@github.com:${USER}/${REPO}.git
 
 > ⚠️ License lines ...
 
-This project is licensed under the MIT License. 
+This project is licensed under the MIT License..
 
 ---
 ### © ${USER} - 2025

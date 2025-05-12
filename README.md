@@ -1,5 +1,4 @@
 # Repo Title ...
-
 <!-- BADGES_ARE_INSERTED_HERE -->
 
 <!-- Delete All comments before Push -->
@@ -8,6 +7,7 @@
 ---
 <!-- Images -->
 ![placeholder](https://raw.githubusercontent.com/${USER}/${REPO}/refs/heads/main/src/img/placeholder.png) 
+
 
 ---
 <!-- Contens -->
@@ -24,7 +24,6 @@
 <!-- Introduction -->
 ## [Introduction](#contents)  
 - Introduction lines ...
-uaehuhaeuhaeuaeuhuaehuae
 
 ---
 <!-- Features -->
@@ -39,11 +38,13 @@ uaehuhaeuhaeuaeuhuaehuae
 
 #### Clone via HTTPS
 ```bash
+<<<<<<< HEAD
 git clone https://github.com/${USER}/${REPO}.git
 ```
 #### Clone via SSH
 
 ```bash
+<<<<<<< HEAD
 git clone git@github.com:${USER}/${REPO}.git
 ```
 ---

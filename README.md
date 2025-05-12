@@ -38,13 +38,11 @@
 
 #### Clone via HTTPS
 ```bash
-<<<<<<< HEAD
 git clone https://github.com/stormizinhu/auto-readme-git-actions.git
 ```
 #### Clone via SSH
 
 ```bash
-<<<<<<< HEAD
 git clone git@github.com:stormizinhu/auto-readme-git-actions.git
 ```
 ---
